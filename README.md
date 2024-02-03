@@ -9,6 +9,8 @@
 
 ---
 
+[WIP]
+
 ## 0. Prerequisites
 
 ## 1. Docker & Kubernetes
